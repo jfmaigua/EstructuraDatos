@@ -1,0 +1,4 @@
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\SegundoParcial\extras\yugen\x64\Debug\Yugen.exe
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\SegundoParcial\extras\yugen\x64\Debug\Yugen.pdb
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\SegundoParcial\extras\Nueva carpeta\codigo\x64\Debug\Yugen.exe
+C:\Users\COMPUTRONCEIBOS\OneDrive\Documents\3er Semestre\Estructura de Datos\SegundoParcial\extras\Nueva carpeta\codigo\x64\Debug\Yugen.pdb

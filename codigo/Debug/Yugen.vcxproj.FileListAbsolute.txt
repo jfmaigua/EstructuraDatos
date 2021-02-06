@@ -1,0 +1,2 @@
+C:\Users\white\workspace\Visual studio projects\Yugen\Debug\Yugen.exe
+C:\Users\white\workspace\Visual studio projects\Yugen\Debug\Yugen.pdb
